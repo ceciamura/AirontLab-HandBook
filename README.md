@@ -29,6 +29,8 @@ ___
 ### Branching Strategy
 #### Common types of branching
 #### GitHub flows
+#### Git rebase vs Git merge
+#### Squashing
 ### Source
 <https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F>
 <https://www.geeksforgeeks.org/top-12-most-used-git-commands-for-developers/>
