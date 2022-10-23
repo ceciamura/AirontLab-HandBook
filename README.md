@@ -36,3 +36,8 @@ ___
 <https://www.geeksforgeeks.org/top-12-most-used-git-commands-for-developers/>
 <https://launchdarkly.com/blog/git-branching-strategies-vs-trunk-based-development/#:~:text=What%20is%20a%20branching%20strategy,their%20changes%20with%20each%20other>
 <https://www.youtube.com/watch?v=y6XdzBNC0_0>
+
+___
+##Javascript
+###Javascript basics and syntax
+<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_Types>
